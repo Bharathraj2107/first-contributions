@@ -4,6 +4,7 @@
 Sriram Kashyap (https://github.com/Sriramkashyapks)
 sara
 - [Josue Anguiano](https://github.com/josue-anguiano)
+- [V.Bharath Raj] (https://github.com/Bharathraj2107)
 - [Ryan Cross](https://girhub.com/rycr3278)
 - [Kris Hvattum](https://github.com/kristofer11)
 - [Sohaib Khan] (https://github.com/Sohaibgit)
